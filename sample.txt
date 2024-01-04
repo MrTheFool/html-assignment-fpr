@@ -1,0 +1,4 @@
+avd.ini.encoding=UTF-8
+path=C:\Users\ACER\.android\avd\Pixel_2_XL_API_30.avd
+path.rel=avd\Pixel_2_XL_API_30.avd
+target=android-30
